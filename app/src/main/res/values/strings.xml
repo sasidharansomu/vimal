@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IntelliSpace</string>
+    <string-array name="array_rooms">
+        <item>Room-Type</item>
+        <item>Audio-Room</item>
+        <item>Video-Room</item>
+        <item>Web Conferencing Room</item>
+        <item>Meeting-Room</item>
+
+    </string-array>
+
+    <string-array name="array_floor">
+        <item>Floor-1</item>
+        <item>Floor-2</item>
+        <item>Floor-3</item>
+        <item>Floor-4</item>
+        <item>Floor-5</item>
+        <item>Floor-6</item>
+        <item>Floor-7</item>
+    </string-array>
+    <string-array name="No_of_Rooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
